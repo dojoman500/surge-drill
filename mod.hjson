@@ -1,0 +1,6 @@
+name: "test Mod"
+displayName: "[red]Dojo's Test Mod"
+author: "Dojoman500"
+description: "This Mod Is Tested Only By Dojoman500"
+version: "1"
+minGameVersion: "120"
