@@ -16,6 +16,7 @@ consumes: {
     surge-alloy/10
     optional: true
     booster: true
+  ]
 }
 requirements: [
   copper/7500
