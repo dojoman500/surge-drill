@@ -1,0 +1,11 @@
+name: Test Drill
+description: This is a Test version of a drill.
+type: Drill
+size: 4
+tier: 3
+drilltime: 300
+requirements: [
+  copper/1
+]
+category: production
+research: mechanical-drill
