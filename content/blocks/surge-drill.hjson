@@ -3,7 +3,9 @@ description: A drill that runs faster than an airblast drill, at the cost of inc
 type: Drill
 size: 4
 tier: 4
-drilltime: 50
+warmupSpeed: 0.01
+rotateSpeed: 10
+drillTime: 150
 consumes: {
   power: 400
   liquid: {
@@ -18,7 +20,8 @@ requirements: [
   lead/4000
   titanium/2000
   thorium/1500
+  silicon/6350
   surge-alloy/5500
 ]
 category: production
-research: laser-drill
+research: blast-drill
