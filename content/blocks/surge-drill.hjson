@@ -14,7 +14,6 @@ consumes: {
   }
   items: [
     surge-alloy/10
-    optional: true
     booster: true
   ]
 }
