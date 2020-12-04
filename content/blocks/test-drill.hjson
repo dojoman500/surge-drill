@@ -1,11 +1,27 @@
-name: Test Drill
-description: This is a Test version of a drill.
+name: Surge Drill
+description: A drill that runs faster than an airblast drill, at the cost of increased power consumption
 type: Drill
 size: 4
-tier: 3
-drilltime: 300
+tier: 4
+drilltime: 150
+consumes: {
+  power: 500
+  liquid: {
+    liquid: cryofluid
+    amount: 1
+    optional: true
+    booster: true
+  }
+  items: [
+    surge-alloy/10
+    optional: true
+    booster: true
 requirements: [
-  copper/1
+  copper/7500
+  lead/4000
+  titanium/2000
+  thorium/1500
+  surge-alloy/5500
 ]
 category: production
-research: mechanical-drill
+research: airblast-drill
