@@ -3,7 +3,7 @@ description: A drill that runs faster than an airblast drill, at the cost of inc
 type: Drill
 size: 4
 tier: 4
-warmupSpeed: 0.001
+warmupSpeed: 0.01
 rotateSpeed: 10
 drillTime: 150
 consumes: {
