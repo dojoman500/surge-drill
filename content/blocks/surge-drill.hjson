@@ -3,9 +3,9 @@ description: A drill that runs faster than an airblast drill, at the cost of inc
 type: Drill
 size: 4
 tier: 4
-drilltime: 150
+drilltime: 50
 consumes: {
-  power: 500
+  power: 400
   liquid: {
     liquid: cryofluid
     amount: 1
